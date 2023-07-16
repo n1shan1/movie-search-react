@@ -4,7 +4,7 @@ The Movie Search App is a web application that allows users to search for movies
 
 ## Deployment
 
-(https://chic-crisp-f160d7.netlify.app/)[Here]
+[Here](https://chic-crisp-f160d7.netlify.app/)
 
 ## Features
 
