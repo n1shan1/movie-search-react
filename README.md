@@ -2,6 +2,10 @@
 
 The Movie Search App is a web application that allows users to search for movies and obtain information about them, including details such as the title, release year, plot, and ratings.
 
+## Deployment
+
+(https://chic-crisp-f160d7.netlify.app/)[Here]
+
 ## Features
 
 - Search for movies by title or keywords.
